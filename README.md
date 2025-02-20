@@ -1,0 +1,1 @@
+In this project, I analyse a clinical trial data for around 1 million patients simulated in a sacubitril and enalapril. I use seabron, numpy and matplotlib to execute the main objectives of this project.
