@@ -5,34 +5,33 @@ In this study, researchers compared the effects of sacubitril/valsartan versus e
 Information included in the dataset:
 
 Demographics
+Age;
+Sex;
+Race;
+Ethnicity.
 
-Age
-Sex
-Race
-Ethnicity
 Baseline characteristics
+Height (cm);
+Weight (kg);
+Smoking history;
+Pre-treatment NT-proBNP (pg/mL);
+Pre-treatment BNP (pg/mL).
 
-Height (cm)
-Weight (kg)
-Smoking history
-Pre-treatment NT-proBNP (pg/mL)
-Pre-treatment BNP (pg/mL)
 Disease characteristics
+Prior use of ACEi/ARB;
+Left ventricular ejection fraction (%);
+Chronic renal insufficiency.
 
-Prior use of ACEi/ARB
-Left ventricular ejection fraction (%)
-Chronic renal insufficiency
 Intervention
+Sacubitril/valsartan;
+Enalapril.
 
-Sacubitril/valsartan
-Enalapril
 Efficacy outcome
+Week 4 NT-proBNP (pg/mL);
+Week 8 NT-proBNP (pg/mL).
 
-Week 4 NT-proBNP (pg/mL)
-Week 8 NT-proBNP (pg/mL)
 Safety outcome
-
-Symptomatic hypotension
-Hyperkalemia
-Angioedema
-Death
+Symptomatic hypotension;
+Hyperkalemia;
+Angioedema;
+Death.
